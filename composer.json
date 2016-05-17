@@ -1,0 +1,15 @@
+{
+    "name": "emielmolenaar/transactional-email-templates",
+    "type": "library",
+    "description": "Responsive transactional HTML email templates, from Mailgun.",
+    "keywords": ["mail","template", "mailgun"],
+    "homepage": "https://github.com/emielmolenaar/transactional-email-templates",
+    "license": "MIT",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Mailgun",
+            "homepage": "http://mailgun.com"
+        }
+    ]
+}
