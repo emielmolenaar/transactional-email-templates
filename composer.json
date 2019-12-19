@@ -5,7 +5,7 @@
     "keywords": ["mail","template", "mailgun"],
     "homepage": "https://github.com/emielmolenaar/transactional-email-templates",
     "license": "MIT",
-    "version": "1.0",
+    "version": "1.1",
     "authors": [
         {
             "name": "Mailgun",

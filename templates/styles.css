@@ -184,6 +184,15 @@ a {
   clear: both;
 }
 
+/* Borrowed from https://github.com/jgthms/bulma/blob/master/sass/base/generic.sass#L89 */
+hr {
+    background-color: whitesmoke;
+    border: none;
+    display: block;
+    height: 2px;
+    margin: 1.5rem 0;
+}
+
 /* -------------------------------------
     ALERTS
     Change the class depending on warning email, good email or bad email
